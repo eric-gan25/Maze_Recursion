@@ -1,10 +1,3 @@
-/********************
-* Eric Gan          *
-* ICS4U             *
-* Ms. Cullum        *
-* Maze Recursion    *
-********************/
-
 #include <iostream>
 #include <fstream>
 
